@@ -1,5 +1,5 @@
 # README
-comrak-py is a python wrapper around the (comrak)[https://github.com/kivikakk/comrak] common mark rust port and allows for efficient markdown rendering.
+comrak-py is a python wrapper around the [comrak](https://github.com/kivikakk/comrak) common mark rust port and allows for efficient markdown rendering.
 
 # Building
 
